@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8aac2e5d-a928-4809-9acd-803a2cc4a911/deploy-status)](https://app.netlify.com/sites/kechyy-order-summary/deploys)
+
+
 # Getting Started with Customer Summary Order
 
 ## Testing The App Locally
