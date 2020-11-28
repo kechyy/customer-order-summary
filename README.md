@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Customer Summary Order
+
+## Testing The App Locally
+
+- `Clone the repo` [Customer-Order-Summary](https://github.com/Onyimatics/customer-order-summary.git)
+
+- `npm install` to install the project dependencies
+
+- `npm start` to start the application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
